@@ -1,1 +1,2 @@
-# code_from_scratch_with_100_lines
+# Code from-scratch with 100 lines
+We provide from-scratch code with 100 lines for: RLHF, GPT-2, and Mixture of Experts (MoE)
